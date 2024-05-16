@@ -17,8 +17,8 @@
 <h2> 💻🍺🧙: Sobre Mim </h2>
 
 <div>
-  <p> Formado em Logística 2012/2014 Univerdidade Anhanguera. </p>
-  <p>Formado em Análise e Desenvolvimento de Sistemas 2022/2024 Universidade Unip. </p>
+  <p> Formado em Logística, 2012/2014, Universidade Anhanguera. </p>
+  <p>Formado em Análise e Desenvolvimento de Sistemas, 2022/2024, Universidade Unip. </p>
   <p> Conhecimentos em: Dev Front-End, CCNA V7, Power BI, Implantação de Serviços de Inteligência em Nuvem Google Cloud, Excel Avançado. </p>
   
   
