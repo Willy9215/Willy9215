@@ -17,11 +17,15 @@
 <h2> 💻🍺🧙: Sobre Mim </h2>
 
 <div>
-  <p>Formado em Análise e Desenvolvimento de Sistemas, Dev Front-End!</p>
+  <p> Formado em Logística 2012/2014 Univerdidade Anhanguera. </p>
+  <p>Formado em Análise e Desenvolvimento de Sistemas 2022/2024 Universidade Unip. </p>
+  <p> Conhecimentos em: Dev Front-End, CCNA V7, Power BI, Implantação de Serviços de Inteligência em Nuvem Google Cloud, Excel Avançado. </p>
+  
+  
 </div>
 
-Estudando em Pós de Inteligência Artificial e Machine Learning. <br>
-Para expandir cada vez mais minha Stack e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
+Estudando em Pós de Inteligência Artificial. <br>
+Para expandir cada vez mais meus conhecimentos e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
 
 #
 <h2> Entre em Contato: </h2>
