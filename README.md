@@ -24,7 +24,7 @@
   
 </div>
 
-Estudando em Pós de Inteligência Artificial. <br>
+Estudando Pós de Inteligência Artificial. <br>
 Para expandir cada vez mais meus conhecimentos e meu portfólio, estou constantemente adquirindo novas habilidades e desenvolvendo projetos.<br>
 
 #
@@ -36,11 +36,7 @@ Para expandir cada vez mais meus conhecimentos e meu portfólio, estou constante
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
- #
- ## :mortar_board: Github Stats
-<div>
-  <a href="https://github.com/Willy9215"></a>
-</div>
+
 
 
 ##
